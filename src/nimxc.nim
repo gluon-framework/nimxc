@@ -109,7 +109,7 @@ const nimOStoZigOS = {
   "macosx": "macos",
 }.toTable()
 
-const zigVersion = "0.9.0"
+const zigVersion = "0.10.1"
 
 const zigurls = {
   "macosx-amd64": fmt"https://ziglang.org/download/{zigVersion}/zig-macos-x86_64-{zigVersion}.tar.xz",
